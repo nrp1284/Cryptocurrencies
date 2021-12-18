@@ -81,14 +81,14 @@ Creating elbow curve
 
 
 # Summary:
-
-created a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
-
-Since there is no lnown output we have decided to use unsupervised learning. 
+Since there is no known output we have decided to use unsupervised learning and process data, to cluster, to reduce your dimensions, and also reduce the principal components using PCA. 
 
 To group the cryptocurrencies, we are using clustering algorithm and data visualizations to share findings with the board and provides details on cryptocurrencies which are on the market and how they can help create a database for curriencies and classification for a new crypto.
 
-To process data, how to cluster, how to reduce your dimensions, and how to reduce the principal components using PCA. 
+created a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
+
+ 
+
 
 
 
